@@ -1,0 +1,6 @@
+build/
+DerivedData/
+*.xcodeproj/
+*.p12
+*.mobileprovision
+*.exe
